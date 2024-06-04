@@ -2,6 +2,8 @@ baseURL = 'https://muqeeth26832.github.io/muqeeth26932.github.io/'
 languageCode = 'en-us'
 title = 'Muqeeths Blog'
 
+
+
 metaDataFormat = "yaml"
 theme = "blist"
 
@@ -15,7 +17,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Mohammed Abdul Muqeeth"
       introSubtitle = "I love cp , webdev !"
-      introPhoto = "/picture.jpg"
+      introPhoto = "me.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -33,6 +35,7 @@ DefaultContentLanguageInSubdir = true
 
 
 [params]
+
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
